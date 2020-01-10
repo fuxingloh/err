@@ -2,9 +2,10 @@
   "engines": {
     "node": "12.x"
   },
-  "name": "nuxt-app",
+
+  "name": "err",
   "version": "1.0.0",
-  "description": "Nuxt app template project with my customisation.",
+  "description": "A repository of errors.",
   "author": "Fuxing Loh",
   "private": true,
   "scripts": {

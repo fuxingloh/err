@@ -1,5 +1,5 @@
-const title = 'nuxt-app'
-const description = 'Nuxt app template project with my customisation.'
+const title = 'Exception Repository'
+const description = 'A repository of errors.'
 const image = ''
 
 export default {

@@ -6,7 +6,7 @@
               height="32px"/>
 
         <h5 class="ml-16">
-          Nuxt App
+          Exception Repository
         </h5>
       </nuxt-link>
 

@@ -10,10 +10,10 @@
                     height="32px"/>
             </nuxt-link>
 
-            <h4 class="ml-16">Nuxt App</h4>
+            <h4 class="ml-16">Exception Repository</h4>
           </div>
 
-          <p>Nuxt app template project with my customisation.</p>
+          <p>A repository of errors.</p>
         </div>
       </div>
     </div>
