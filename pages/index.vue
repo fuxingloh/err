@@ -6,7 +6,14 @@
 
 <script>
   export default {
-    components: {},
+    data() {
+      return {
+        exceptions: [
+          {name: 'ConflictException', },
+          {name: 'JsonException', },
+        ]
+      }
+    }
   }
 </script>
 
